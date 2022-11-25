@@ -1,1 +1,3 @@
-# this is a deployment script
+deploy java applicationt
+deploy python apps
+deploy in the dev env
