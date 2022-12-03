@@ -5,3 +5,7 @@ Deployment5
 deployment4
 dev 
 for dev env only
+deployment to staging branch 
+testing done
+tested and approved
+
